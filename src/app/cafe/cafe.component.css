@@ -1,0 +1,10 @@
+.line{
+  width: 67%;
+}
+h1 {
+  font-family: 'Indie Flower', cursive;
+  font-weight: 700;
+  font-size: 36px;
+  color: #000;
+  text-shadow: 2px 2px 4px #aaa;
+}
